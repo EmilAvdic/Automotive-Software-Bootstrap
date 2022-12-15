@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Agency v7.0.11 (https://startbootstrap.com/theme/agency)
-* Copyright 2013-2022 Start Bootstrap
+* Automotiv - Agency v7.0.11 (https://startbootstrap.com/theme/agency)
+* Copyright 2013-2022 Automotiv
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
 */
 /*!
@@ -4054,6 +4054,7 @@ textarea.form-control-lg {
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
+  font: Georgia, Times, 'Times New Roman', serif;
   text-decoration: none;
   white-space: nowrap;
 }
@@ -11410,7 +11411,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/Electronics.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
