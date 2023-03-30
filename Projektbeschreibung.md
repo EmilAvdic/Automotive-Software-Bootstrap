@@ -1,35 +1,42 @@
 # Automotive-Software-Bootstrap
 
-## Projektteam
-- Denis Bjelak
-- Emil Avdic (Projektleiter)
+## Project team
+- Denis Bjelak (Project member)
+- Emil Avdic (Project Manager)
 
-## Statischer Teil
-- Eine Software mit Hilfe von Bootstrap erstellt
-- Einheitliches Design
-- CSS und HTML wurden verwendet
-- Haupthema Automotive Software 
-   - Verschiedene Programmiersprachen
-   - Wo wird es verwendet?
+## Static part
+- A software created using Bootstrap
+- Uniform design
+- CSS and HTML were used
+- Main topic automotive software
+   - Different programming languages
+   - Where is it used?
 
-## Planung Dynamischer Teil 
+## Planning dynamic part
 
-### Quiz 
-- Insgesamt 12 Fragen mithilfe von selbsterstellter API 
-    - 2 Fragen zum Coding von der Software des Autos
-    - 4 Fragen zur Automobilelektronik und der IT
-    - 3 Fragen zur Komplexität der Elektronik
-    - 1 Frage zur Fahrzeugelektronik
-    - 2 Fragen zur Softwarearchitektur
+### Quizzes
+- A total of 12 questions using custom API
+    - 2 questions about the coding of the car's software
+    - 4 questions about automotive electronics and IT
+    - 3 questions on the complexity of electronics
+    - 1 question about vehicle electronics
+    - 2 questions about software architecture
 
-- 4 Antwortemöglichkeiten 
-    - Nur eine Antwort ist korrekt
-- Eigenes Ergebnis ist sichtbar am Ende des Quizzes
-    - Erreichte Prozente werden angegeben  
-- Überblick von anderen Ergebnissen am Ende des eigenen Quizzes
-    - Erreichte Prozente anderer Spieler werden angegeben 
-    - Andere Spieler werden mit User1, User2, ..., usw. angegeben  
-    - Ergebnisse bzw. User, welche dieses Ergebnis erreicht haben werden in einer Tabelle nach dem Quiz angezeigt
-- Quiz wird passend zum Hintergrund der Seite, gestaltet
+- 4 possible answers
+    - Only one answer is correct
+- Your result is visible at the end of the quiz
+    - Percentages achieved are given
+- Overview of other results at the end of your own quiz
+    - Percentages achieved by other players are given
+    - Other players are specified with User1, User2, ..., etc
+    - Results or users who have achieved this result are displayed in a table after the quiz
+- Quiz WILL be styled to match the background of the page
 
 ###   ###
+## Milestones
+| Date | Description |
+| 15.12.2022 | Start of our Project |
+| 15.12.2022 | Initial commit (Use of Bootstrap commited) |
+| 15.12.2022 | Changed pictures from bootstrap |
+| 02.02.2023 | Added and finsihed the text of the project |
+| 30.03.2023 | Project description completed |
