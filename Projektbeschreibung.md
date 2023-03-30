@@ -2,7 +2,15 @@
 
 ## Projektteam
 - Denis Bjelak
-- Emil Avdic
+- Emil Avdic (Projektleiter)
+
+## Statischer Teil
+- Eine Software mit Hilfe von Bootstrap erstellt
+- Einheitliches Design
+- CSS und HTML wurden verwendet
+- Haupthema Automotive Software 
+   - Verschiedene Programmiersprachen
+   - Wo wird es verwendet?
 
 ## Planung Dynamischer Teil 
 
