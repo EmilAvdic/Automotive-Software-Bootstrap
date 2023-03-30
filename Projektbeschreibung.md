@@ -38,6 +38,7 @@
 ## Milestones
 
 | Date | Description |
+|--| -----|
 | 15.12.2022 | Start of our Project |
 | 15.12.2022 | Initial commit (Use of Bootstrap commited) |
 | 15.12.2022 | Changed pictures from bootstrap |
