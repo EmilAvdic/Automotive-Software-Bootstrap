@@ -34,6 +34,10 @@
 
 ###   ###
 
+<<<<<<< HEAD:Projectdescription.md
+=======
+
+>>>>>>> 3612714e5e64bf3dcd60d1b3caa23af67f7ed192:Projektbeschreibung.md
 ## Milestones
 
 | Date | Description |
