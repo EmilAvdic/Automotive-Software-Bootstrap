@@ -1,0 +1,152 @@
+{
+    "Automotive-Software-Quiz" : [
+      {
+        "Frage" : " Wann hat Carl Benz sein in Mannheim entwickeltes dreirädriges Fahrzeug patentieren lassen? " ,
+        "AntwortEins" : " 1876 " ,
+        "AntwortZwei" : " 1886 " ,
+        "AntwortDrei" : " 1882 " ,
+        "AntwortVier" : " 1899 " ,
+        "richtige Antwort" : " 1886 "
+      },
+      {
+        "Frage" : " Welcher Autohersteller hat 1927 als erster ein Autoradio angeboten? " ,
+        "antwortEins" : " Chevrolet " ,
+        "antwortZwei" : " Daimler " ,
+        "AntwortDrei" : " Benz " ,
+        "antwortFour" : " Peugeot " ,
+        "richtige Antwort" : " Chevrolet "
+      },
+      {
+        "Frage" : "Wie viele Jahre hat der Kreiskolbenmotor vom Jahr seiner Entwicklung bis zum Jahr seiner Markteinführung gedauert? " ,
+        "AntwortEins" : " 10 " ,
+        "AntwortZwei" : " 4 " ,
+        "AntwortDrei" : " 29 " ,
+        "AntwortVier" : " 31 " ,
+        "richtigeAntwort" : " 31 "
+      },
+      {
+        "Frage" :  "Welche Stadt war 1921 die am stärksten motorisierte in Deutschland? " ,
+        "answerOne" : " Berlin " ,
+        "AntwortZwei" : " Mannheim " ,
+        "antwortDrei" : " München " ,
+        "antwortFour" : " Hamburg " ,
+        "richtige Antwort" : " Berlin "
+      },
+      {
+        "Frage" : " Welche Höchstgeschwindigkeit konnten Autos in den 1920er Jahren erreichen? " ,
+        "antwortEins" : " 30 km/h " ,
+        "antwortZwei" : " 90 km/h " ,
+        "antwortDrei" : " 70 km/h " ,
+        "antwortFour" : " 120 km/h " ,
+        "richtige Antwort" : " 70 km/h "
+      },
+      {
+        "Frage" : " Was war der Hauptgrund für Autounfälle zu Beginn der Motorisierung? " ,
+        "answerOne" : " schlecht regulierter Verkehr " ,
+        "answerTwo" : " schlecht gebaute Straßen " ,
+        "answerThree" : " schlecht gebaute Autos " ,
+        "answerFour" : " Schlechtes Fahrertraining " ,
+        "richtigeAntwort" : " schlecht geregelter Verkehr "
+      },
+      {
+        "Frage" : " Wie lange hält ein moderner Motor? " ,
+        "antwortEins" : " 100.000 km " ,
+        "antwortZwei" : " 200.000 km " ,
+        "AntwortDrei" : " 250.000 km " ,
+        "antwortFour" : " 300.000 km " ,
+        "richtige Antwort" : " 200.000 km "
+      },
+      {
+        "Frage" : " Was braucht ein Auto, um schneller zu werden? " ,
+        "answerOne" : " Aussetzung " ,
+        "AntwortZwei" : " Indikator " ,
+        "AntwortDrei" : " Bremsen " ,
+        "answerFour" : " Übertragung " ,
+        "richtigeAntwort" : " Übertragung "
+      },
+      {
+        "Frage" : " Was ist ein gängiges Sicherheitssystem in einem modernen Auto? " ,
+        "answerOne" : " Lenkrad " ,
+        "answerTwo" : " Armaturenbretter aus Metall " ,
+        "AntwortDrei" : " Airbag " ,
+        "answerFour" : " Autotür " ,
+        "richtige Antwort" : " airbag "
+      },
+      {
+        "Frage" : " Was ist ein gängiger Standardtest zur Überprüfung der Sicherheit von Neuwagen? " ,
+        "answerOne" : " Euro NCAP " ,
+        "AntwortZwei" : " UK NCAP " ,
+        "AntwortDrei" : " ANCAP " ,
+        "antwortFour" : " IIHS " ,
+        "richtige Antwort" : " Euro NCAP "
+      },
+      {
+        "Frage" : " Was ist ein großer Vorteil moderner Autos? " ,
+        "answerOne" : " Touchscreens " ,
+        "antwortZwei" : " niedrige Kosten " ,
+        "answerThree" : " Geschwindigkeitsbeschleunigung " ,
+        "answerFour" : " kürzere Haltbarkeit " ,
+        "richtigeAntwort" : " Geschwindigkeitsbeschleunigung "
+      },
+      {
+        "Frage" : " Was ist ein großer Nachteil moderner Autos? " ,
+        "answerOne" : " Autos sind heutzutage sehr laut " ,
+        "antwortZwei" : " hohe Preise für Autos und Benzin " ,
+        "answerThree" : " Sicherheitssysteme " ,
+        "answerFour" : " Umweltverschmutzung verringern " ,
+        "richtigeAntwort" : " Hohe Preise für Autos und Benzin "
+      }
+    ],
+    "Statistik" : [
+      {
+        "Benutzername" : " Armin " ,
+        " Ergebnis " : 92 ,
+        "ID" : 1
+      },
+      {
+        "Benutzername" : " Denis " ,
+        "Punktzahl" : 50 ,
+        "ID" : 2
+      },
+      {
+        "Benutzername" : " Armin " ,
+        "Punktzahl" : 83 ,
+        "ID" : 3
+      },
+      {
+        "Benutzername" : " Armin " ,
+        "Punktzahl" : 83 ,
+        "ID" : 4
+      }
+    ],
+    "Autoliste" : [
+      {
+        "carName" : " Benz Patent-Motorwagen " ,
+        "BuildYear" : " 1886 " ,
+        "maxEnginePower" : " 0,75 PS " ,
+        "Verbrauch" : " 10L / 100km " ,
+        "maximaleGeschwindigkeit" : " 16 km/h "
+      },
+      {
+        "carName" : " Ford Modell T " ,
+        "BuildYear" : " 1908 " ,
+        "maxEnginePower" : " 20 PS " ,
+        "Verbrauch" : " 2.9L / 100km " ,
+        "Höchstgeschwindigkeit" : " 68 km/h "
+      },
+      {
+        "carName" : " Opel Laubfrosch " ,
+        "BuildYear" : " 1924 " ,
+        "maxEnginePower" : " 11,83 PS " ,
+        "Verbrauch" : " 5L / 100km " ,
+        "maximale Geschwindigkeit" : " 60 km/h "
+      },
+      {
+        "carName" : " Chevrolet Series AA Capitol " ,
+        "BuildYear" : " 1927 " ,
+        "maxEnginePower" : " 35 PS " ,
+        "Verbrauch" : " 2.8L / 100km " ,
+        "maximaleGeschwindigkeit" : " 80 km/h "
+      }
+    ]
+  }
