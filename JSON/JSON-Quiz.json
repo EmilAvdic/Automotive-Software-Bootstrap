@@ -1,28 +1,28 @@
 {
     "Automotive-Software-Quiz" : [
       {
-        "Frage" : " " ,
-        "AntwortEins" : "  " ,
-        "AntwortZwei" : "  " ,
-        "AntwortDrei" : "  " ,
-        "AntwortVier" : "  " ,
-        "richtige Antwort" : " "
+        "Frage" : "Is Coding a new or old thing, when new what year was it invented?" ,
+        "AntwortEins" : "It is old" ,
+        "AntwortZwei" : "It is new and was invented 40 years ago" ,
+        "AntwortDrei" : "It is new and was invented 20 years ago" ,
+        "AntwortVier" : "It is new and was invented 30 years ago" ,
+        "richtige Antwort" : "It is new and was invented 40 years ago "
       },
       {
-        "Frage" : "  " ,
-        "antwortEins" : "  " ,
-        "antwortZwei" : " " ,
-        "AntwortDrei" : "  " ,
-        "antwortFour" : "  " ,
-        "richtige Antwort" : "  "
+        "Frage" : "Which programming language is not commonly used in Automotive Software?" ,
+        "antwortEins" : "C++" ,
+        "antwortZwei" : "C# " ,
+        "AntwortDrei" : "Python" ,
+        "antwortFour" : "Rust" ,
+        "richtige Antwort" : "Rust"
       },
       {
-        "Frage" : " " ,
-        "AntwortEins" : "  " ,
-        "AntwortZwei" : "  " ,
-        "AntwortDrei" : "  " ,
-        "AntwortVier" : "  " ,
-        "richtigeAntwort" : "  "
+        "Frage" : "What is Multimodal mobility?" ,
+        "AntwortEins" : "It connects previous domains such as public transportation" ,
+        "AntwortZwei" : "It doesnt exist" ,
+        "AntwortDrei" : "It is used for multimedia  " ,
+        "AntwortVier" : "It connects previous domains" ,
+        "richtigeAntwort" : "It connects previous domains such as public transportation"
       },
       {
         "Frage" :  " " ,
