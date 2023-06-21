@@ -1,122 +1,122 @@
 {
-    "Automotive-Software-Quiz" : [
-      {
-        "Frage" : " " ,
-        "AntwortEins" : "  " ,
-        "AntwortZwei" : "  " ,
-        "AntwortDrei" : "  " ,
-        "AntwortVier" : "  " ,
-        "richtige Antwort" : " "
-      },
-      {
-        "Frage" : "  " ,
-        "antwortEins" : "  " ,
-        "antwortZwei" : " " ,
-        "AntwortDrei" : "  " ,
-        "antwortFour" : "  " ,
-        "richtige Antwort" : "  "
-      },
-      {
-        "Frage" : " " ,
-        "AntwortEins" : "  " ,
-        "AntwortZwei" : "  " ,
-        "AntwortDrei" : "  " ,
-        "AntwortVier" : "  " ,
-        "richtigeAntwort" : "  "
-      },
-      {
-        "Frage" :  " " ,
-        "answerOne" : "  " ,
-        "AntwortZwei" : "  " ,
-        "antwortDrei" : "  " ,
-        "antwortFour" : "  " ,
-        "richtige Antwort" : "  "
-      },
-      {
-        "Frage" : "  " ,
-        "antwortEins" : "  " ,
-        "antwortZwei" : "  " ,
-        "antwortDrei" : "  " ,
-        "antwortFour" : "  " ,
-        "richtige Antwort" : "  "
-      },
-      {
-        "Frage" : " " ,
-        "answerOne" : "  " ,
-        "answerTwo" : "  " ,
-        "answerThree" : "  " ,
-        "answerFour" : "  " ,
-        "richtigeAntwort" : "  "
-      },
-      {
-        "Frage" : "  " ,
-        "antwortEins" : " " ,
-        "antwortZwei" : "  " ,
-        "AntwortDrei" : "  " ,
-        "antwortFour" : "  " ,
-        "richtige Antwort" : "  "
-      },
-      {
-        "Frage" : "  " ,
-        "answerOne" : "  " ,
-        "AntwortZwei" : "  " ,
-        "AntwortDrei" : "  " ,
-        "answerFour" : "  " ,
-        "richtigeAntwort" : "  "
-      },
-      {
-        "Frage" : "  " ,
-        "answerOne" : "  " ,
-        "answerTwo" : "    " ,
-        "AntwortDrei" : "  " ,
-        "answerFour" : "  " ,
-        "richtige Antwort" : "  "
-      },
-      {
-        "Frage" : "  " ,
-        "answerOne" : "   " ,
-        "AntwortZwei" : "   " ,
-        "AntwortDrei" : "  " ,
-        "antwortFour" : "  " ,
-        "richtige Antwort" : "  "
-      },
-      {
-        "Frage" : "  " ,
-        "answerOne" : " " ,
-        "antwortZwei" : "  " ,
-        "answerThree" : " g " ,
-        "answerFour" : "  " ,
-        "richtigeAntwort" : "  "
-      },
-      {
-        "Frage" : "  " ,
-        "answerOne" : "  " ,
-        "antwortZwei" : "  " ,
-        "answerThree" : "  " ,
-        "answerFour" : "   " ,
-        "richtigeAntwort" : " "
-      }
-    ],
-    "Statistik" : [
-      {
-        "Benutzername" : " Emil " ,
-        " Ergebnis " : 92 ,
-        "ID" : 1
-      },
-      {
-        "Benutzername" : " Denis " ,
-        "Punktzahl" : 50 ,
-        "ID" : 2
-      },
-      {
-        "Benutzername" : " Emil " ,
-        "Punktzahl" : 83 ,
-        "ID" : 3
-      },
-      {
-        "Benutzername" : " Emil " ,
-        "Punktzahl" : 83 ,
-        "ID" : 4
-      }
-    ]
-  } 
+  "Automotive-Software-Quiz" : [
+    {
+      "Frage" : "Is Coding a new or old thing, when new what year was it invented?" ,
+      "AntwortEins" : "It is old" ,
+      "AntwortZwei" : "It is new and was invented 40 years ago" ,
+      "AntwortDrei" : "It is new and was invented 20 years ago" ,
+      "AntwortVier" : "It is new and was invented 30 years ago" ,
+      "richtige Antwort" : "It is new and was invented 40 years ago "
+    },
+    {
+      "Frage" : "Which programming language is not commonly used in Automotive Software?" ,
+      "antwortEins" : "C++" ,
+      "antwortZwei" : "C# " ,
+      "AntwortDrei" : "Python" ,
+      "antwortFour" : "Rust" ,
+      "richtige Antwort" : "Rust"
+    },
+    {
+      "Frage" : "What is Multimodal mobility?" ,
+      "AntwortEins" : "It connects previous domains such as public transportation" ,
+      "AntwortZwei" : "It doesnt exist" ,
+      "AntwortDrei" : "It is used for multimedia  " ,
+      "AntwortVier" : "It connects previous domains" ,
+      "richtigeAntwort" : "It connects previous domains such as public transportation"
+    },
+    {
+      "Frage" :  "What is required for Autonomous driving" ,
+      "answerOne" : "Highly interactive services with multisensor fusion" ,
+      "AntwortZwei" : "Low interactive services with multisensor fusion" ,
+      "antwortDrei" : " Highly interactive services with single sensor fusion" ,
+      "antwortFour" : "Low interactive services with single sensor fusion" ,
+      "richtige Antwort" : "Highly interactive services with multisensor fusion"
+    },
+    {
+      "Frage" : "What transforms cars into distributed IT - systems?" ,
+      "antwortEins" : "Connectivity and infotainment" ,
+      "antwortZwei" : "Connectivity and autonomous driving" ,
+      "antwortDrei" : "autonomous driving and infotainment" ,
+      "antwortFour" : "Connectivity, autonomous driving and infotainment" ,
+      "richtige Antwort" : "Connectivity and infotainment"
+    },
+    {
+      "Frage" : "Fill in the missing word, Energy efficiency is evolving the classic powertrain toward _____ hybrid and electric engines." ,
+      "answerOne" : "high - voltage" ,
+      "answerTwo" : "high - distance" ,
+      "answerThree" : "low - voltage" ,
+      "answerFour" : "average - voltage" ,
+      "richtigeAntwort" : "high - voltage"
+    },
+    {
+      "Frage" : "Electronics and software are the basis for _____ in the vehicle." ,
+      "antwortEins" : "upgrades" ,
+      "antwortZwei" : "new functions" ,
+      "AntwortDrei" : "new layouts" ,
+      "antwortFour" : "multimedia" ,
+      "richtige Antwort" : "new functions"
+    },
+    {
+      "Frage" : "How many control units are nowadays in vehicles" ,
+      "answerOne" : "about 200" ,
+      "AntwortZwei" : "less than 90" ,
+      "AntwortDrei" : "more than 100" ,
+      "answerFour" : "more than 90" ,
+      "richtigeAntwort" : "more than 100"
+    },
+    {
+      "Frage" : "What makes the systems more complex" ,
+      "answerOne" : "custom Equipment variants" ,
+      "answerTwo" : "custom functions" ,
+      "AntwortDrei" : "new algorithms" ,
+      "answerFour" : "new sensors" ,
+      "richtige Antwort" : "custom Equipment variants"
+    },
+    {
+      "Frage" : "Which answer does not fit for Vehicle electronics" ,
+      "answerOne" : "Powertrain & Chasis" ,
+      "AntwortZwei" : "Comfort such as light or a central locking system" ,
+      "AntwortDrei" : "Infrastructure such as security or routing" ,
+      "antwortFour" : "Multimedia such as radio or navigation" ,
+      "richtige Antwort" : "Multimedia such as radio or navigation"
+    },
+    {
+      "Frage" : "When was the first version of standards of the software architecture published" ,
+      "answerOne" : "2005" ,
+      "antwortZwei" : "2006" ,
+      "answerThree" : "2004" ,
+      "answerFour" : "2010" ,
+      "richtigeAntwort" : "2004"
+    },
+    {
+      "Frage" : "Which of these is not a new requirement for the software architecture" ,
+      "answerOne" : "flexibility" ,
+      "antwortZwei" : "energy efficiency" ,
+      "answerThree" : "robustness" ,
+      "answerFour" : "evolution" ,
+      "richtigeAntwort" : "evolution"
+    }
+  ],
+  "Statistik" : [
+    {
+      "Benutzername" : " Emil " ,
+      " Ergebnis " : 92 ,
+      "ID" : 1
+    },
+    {
+      "Benutzername" : " Denis " ,
+      "Punktzahl" : 50 ,
+      "ID" : 2
+    },
+    {
+      "Benutzername" : " Emil " ,
+      "Punktzahl" : 83 ,
+      "ID" : 3
+    },
+    {
+      "Benutzername" : " Emil " ,
+      "Punktzahl" : 83 ,
+      "ID" : 4
+    }
+  ]
+}
